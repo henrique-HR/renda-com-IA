@@ -6,7 +6,7 @@
 
 ## 🔗 Demo ao vivo
 
-**[→ Ver página no ar](https://henrique-HR.github.io)** <!-- substitua pela URL real do GitHub Pages -->
+**[→ Ver página no ar](https://henrique-hr.github.io/renda-com-IA/)** <!-- substitua pela URL real do GitHub Pages -->
 
 ---
 
